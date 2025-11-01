@@ -5,7 +5,7 @@
 ```markdown
 # Document Converters (UPT.DocumentConverters)
 
-Proyecto de ejemplo con convertidores de documentos, pruebas unitarias en formato BDD y CI/CD para generar reportes.
+Proyecto con convertidores de documentos, pruebas unitarias en formato BDD y CI/CD para generar reportes.
 
 Contenido:
 - src/UPT.DocumentConverters — implementa IDocumentConverter y tres convertidores (DOCX, PDF, TXT) y una fábrica.
